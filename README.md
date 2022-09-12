@@ -5,7 +5,7 @@ Template Repository for use in Assignment 2 - REPLACE
 ## Group Members
 
 - Wong Shao Le (swon0131@student.monash.edu)
-- Nic
+- Nicholas Hong Jian (jhon0030@student.monash.edu)
 - Cw
 - Joelle
 
